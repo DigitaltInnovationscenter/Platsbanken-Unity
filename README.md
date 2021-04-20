@@ -1,4 +1,4 @@
-These classes allow easy access to the JobTech APIs and Platsbanken through Unity. A demo scene is provided, allowing users to quickly build up Unity projects making use of jobtechdev.se API:s and data about the Swedish labour market. 
+This is a scaled-down but functional Unity project (version 2020.2.7f1) with classes that allow easy access to the JobTech APIs and Platsbanken. A demo scene is provided, allowing users to quickly build up Unity projects making use of jobtechdev.se API:s and data about the Swedish labour market.
 
 Instructions
 

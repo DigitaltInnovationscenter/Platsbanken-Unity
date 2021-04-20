@@ -2,7 +2,7 @@ These classes allow easy access to the JobTech APIs and Platsbanken through Unit
 
 Instructions
 
-To access jobtechdev.se API:s you will need your own private API-key. The API-key can be easily be requested at:
+To access jobtechdev.se API:s you will need your own private API-key. Your API-key can be easily be requested at:
 https://apirequest.jobtechdev.se/
 
 This API key must be added in the inspector to the Platsbanken component in the Scene "PlatsbankenDemo". No third-party components are used so setup should be hassle-free.

@@ -9,6 +9,8 @@ This API key must be added in the inspector to the Platsbanken component in the 
 
 For best visuals, set the game window to Fixed Resolution at 1028 x 768 pixels.
 
+See also: https://github.com/JobtechSwe
+
 Contact: innovationscenter@arbetsformedlingen.se
 
 www.digitaltinnovationscenter.se

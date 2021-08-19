@@ -9,10 +9,15 @@ This API key must be added in the inspector to the Platsbanken component in the 
 
 For best visuals, set the game window to Fixed Resolution at 1028 x 768 pixels.
 
-See it in action in this youtube clip: https://www.youtube.com/watch?v=O7HdpL6PbKU
+You can use the tool directly here: http://prototypes.digitaltinnovationscenter.se/Platsbanken-Unity/
 
 See also: https://github.com/JobtechSwe
 
 Contact: innovationscenter@arbetsformedlingen.se
 
 www.digitaltinnovationscenter.se
+
+UPDATE 2021-08-19
+- Added support for WebGL
+- Added a way to enter api-key
+- Uploaded WebGL version
